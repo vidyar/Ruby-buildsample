@@ -1,3 +1,3 @@
 
 
-! Build samples
+! Build samples for ruby
